@@ -11,13 +11,6 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-# Machine Learning algorithms
-from sklearn.linear_model import LogisticRegression
-from sklearn.svm import SVC
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.tree import DecisionTreeClassifier
-
 ##--------------------- Input Dataset -------------------------
 ##-------------------------------------------------------------
 os.chdir("C:\\Summer\\Databases by Python - Coursera\\Kaggle Project\\Titanic-180109")
